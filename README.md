@@ -4,7 +4,7 @@
   Procedo de Cuba <img src="https://besthqwallpapers.com/Uploads/20-9-2017/21107/thumb-cuban-flag-cuba-latin-america-silk-flag-emblems.jpg" width="20">
 </h3>
 
-<h3 align="left">Lenguajes y Herramientas en uso:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/> 
