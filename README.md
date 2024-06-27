@@ -34,3 +34,6 @@
 </p>
 
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&theme=nightowl)
+
