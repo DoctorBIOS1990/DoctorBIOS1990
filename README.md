@@ -33,7 +33,5 @@
   <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>
 </p>
 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&theme=nightowl)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&theme=nightowl)</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&theme=tokyonight)
