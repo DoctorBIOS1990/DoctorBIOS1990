@@ -16,8 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> 
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5410224-4543401.png" width="40" height="40" alt="SQL" title="SQL Standard"/> 
-
-
 </p>
 
 <!-- SECTION AS TECHNOLOGIES -->
@@ -33,20 +31,20 @@
 <!-- SECTION AS TOOLS -->
 <h3 align="left">Tools:</h3>
 <p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntellijIDEA" title="IntellijIDEA"/>
   <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>    
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSql"/> 
-  <img src="https://codexperts.in/codexperts/public/assets/images/animat/11.png" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="NodeJS"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://codexperts.in/codexperts/public/assets/images/animat/11.png" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Adobe Ilustrator"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="NodeJS"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
-  
   <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
   <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntellijIDEA" title="IntellijIDEA"/>
+  
 </p>
 
 
