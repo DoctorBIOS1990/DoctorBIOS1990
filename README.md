@@ -31,13 +31,17 @@
 <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>    
 
 <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
-  <img src="https://www.interaktif.solutions/wp-content/uploads/2019/09/Delphi_12_512x512@1x.png" width="40" height="40" alt="Delphi" title="Delphi"/>
-  <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
-
+<img src="https://www.interaktif.solutions/wp-content/uploads/2019/09/Delphi_12_512x512@1x.png" width="40" height="40" alt="Delphi" title="Delphi"/>
+<img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
+<img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntellijIDEA" title="IntellijIDEA"/>
   
-  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>
 </p>
 </br>
+
+
+
+
 
 <h3 align="left">:chart_with_upwards_trend: My Stats:</h3>
 
