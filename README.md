@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hola, me llamo Jorge Alberto</h1>
-<h3 align="center">Soy un apasionado :fire: por la programación y la creatividad.</br> Actualmente estudiante Ingeniería Informática.</br>
+<h3 align="center">Soy un apasionado :fire: por la programación y la creatividad.</br> Actualmente estudiante :student: de Ingeniería Informática.</br>
 <img src="https://besthqwallpapers.com/Uploads/20-9-2017/21107/thumb-cuban-flag-cuba-latin-america-silk-flag-emblems.jpg" width="20">
   Procedo de Cuba <img src="https://besthqwallpapers.com/Uploads/20-9-2017/21107/thumb-cuban-flag-cuba-latin-america-silk-flag-emblems.jpg" width="20">
 </h3>
