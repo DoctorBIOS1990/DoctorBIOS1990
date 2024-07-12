@@ -21,11 +21,11 @@
 <!-- SECTION AS TECHNOLOGIES -->
 <h3 align="left">Technologies:</h3>
 <p>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" title="Symfony"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="SpringBoot"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
   <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="SpringBoot"/> 
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" title="Symfony"/>
 </p>
 
 <!-- SECTION AS TOOLS -->
