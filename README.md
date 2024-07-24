@@ -1,10 +1,19 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> Hola, me llamo Jorge Alberto</h1>
-<h3 align="center">Soy un apasionado :fire: por la programación y la creatividad.</br> Actualmente estudiante :student: de Ingeniería Informática.</br>
-<img src="https://besthqwallpapers.com/Uploads/20-9-2017/21107/thumb-cuban-flag-cuba-latin-america-silk-flag-emblems.jpg" width="20">
-  Procedo de Cuba <img src="https://besthqwallpapers.com/Uploads/20-9-2017/21107/thumb-cuban-flag-cuba-latin-america-silk-flag-emblems.jpg" width="20">
-</h3>
 
-<h3 align="left">Languajes:</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Hola,+Mi+nombre+es+Jorge+Alberto;Soy+apasionado+🔥+por+la+programación.;Estudiante+Ingeniería+Informática.🧑‍🎓)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=F1E8F8&bg_color=0d1117" alt="Jorge Alberto Github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&layout=compact&hide_border=true&title_color=9932CC&text_color=F1E8F8&bg_color=0d1117" />
+</div>
+
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=BA55D3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### Languajes:
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/> 
@@ -18,8 +27,9 @@
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5410224-4543401.png" width="40" height="40" alt="SQL" title="SQL Standard"/> 
 </p>
 
-<!-- SECTION AS TECHNOLOGIES -->
-<h3 align="left">Technologies:</h3>
+
+### Technologies:
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="SpringBoot"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
@@ -29,7 +39,7 @@
 </p>
 
 <!-- SECTION AS TOOLS -->
-<h3 align="left">Tools:</h3>
+### Tools:
 <p>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntellijIDEA" title="IntellijIDEA"/>
@@ -44,12 +54,65 @@
   <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
   <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
   <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>  
-  
 </p>
 
-</br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
 
-<h3 align="left">:chart_with_upwards_trend: My Stats:</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&theme=dracula)</br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&layout=compact&theme=dracula)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!--
+### Olá, eu sou o Matheus Vidal 👋
+
+- 🔭 Amante de **Programação e Design**
+- 🌱 Atualmente estou constantemente estudando **C++ e Java**
+- 👨‍💻 Sou graduando em **Tecnologia da Informação**
+
+🚀 Meu perfil no GitHub é o lugar onde compartilho meus projetos, contribuições e experimentos. Fique à vontade para explorar, fazer fork dos meus repositórios e deixar feedback. Estou sempre aberto a colaborações e oportunidades de aprendizado conjunto.
+
+##
+
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/matheusvidal21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvidal21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvidal21&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+<div style="display: inline_block" align="center"><br>
+ <img align="center" alt="JAVA" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="CPP" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+   <img align="center" alt="SSH" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
+  
+  ##
+ 
+<div  style="display: inline_block" align="center"> 
+  <a href="https://instagram.com/matheusvidalk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusvidal140@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-vidal-38ab70144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+-->
