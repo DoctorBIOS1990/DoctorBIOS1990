@@ -47,15 +47,9 @@
   
 </p>
 
-
-
 </br>
-
-
-
-
 
 <h3 align="left">:chart_with_upwards_trend: My Stats:</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true)</br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&theme=dracula)</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&layout=compact&theme=dracula)
