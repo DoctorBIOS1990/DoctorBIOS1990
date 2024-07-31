@@ -30,7 +30,7 @@
 
 ### Technologies:
 <p>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="SpringBoot"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
   <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/> 
