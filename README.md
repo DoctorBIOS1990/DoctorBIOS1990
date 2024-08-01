@@ -33,7 +33,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
-  <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/> 
+  <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/>
+  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/VCL_v1.png?w=276)" alt="VCL" width="40" height="40" title="VCL Framework"/> 
+  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>    
 </p>
 
 ### Tools:
@@ -50,7 +52,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
   <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
-  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>  
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
