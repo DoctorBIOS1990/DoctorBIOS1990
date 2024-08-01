@@ -13,10 +13,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=BA55D3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-### Languajes:
+<!--Languajes:-->
 <div align="center">
 <table>
   <tbody>
+    <tr>
+      <td colspan="9"><strong>Languajes</strong></td>
+    </tr>
      <tr>
        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/></td>
        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/></td>
@@ -32,10 +35,13 @@
 </table>
 </div>
 
-### Technologies:
+<!--Technologies:-->
 <div align="center">
 <table>
   <tbody>
+     <tr>
+      <td colspan="7"><strong>Technologies</strong></td>
+    </tr>
      <tr>
        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/></td>
        <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> </td>
@@ -50,10 +56,13 @@
 </div>
 
 
-### Tools:
+<!--Tools:-->
 <div align="center">
 <table>
   <tbody>
+     <tr>
+        <td colspan="12"><strong>Tools</strong></td>
+     </tr>
      <tr>
        <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> </td>
        <td><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40"  alt="IntellijIDEA" title="IntellijIDEA"/></td>
