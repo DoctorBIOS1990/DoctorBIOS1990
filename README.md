@@ -13,9 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=BA55D3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-
 ### Languajes:
-
 
 <div align="center">
 <table>
@@ -36,14 +34,22 @@
 </div>
 
 ### Technologies:
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
-  <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/>
-  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/VCL_v1.png?w=276)" alt="VCL" width="40" height="40" title="VCL Framework"/> 
-  <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="FireMonkey" title="Fire Monkey"/>    
-</p>
+<div align="center">
+<table>
+  <tbody>
+     <tr>
+       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/></td>
+       <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> </td>
+       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/></td>
+       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/></td>
+       <td><img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="BootStrap"/></td>
+       <td><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/VCL_v1.png?w=276)" alt="VCL" width="40" height="40" title="VCL Framework"/> </td>
+       <td><img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="Frame work FireMonkey" title="Fire Monkey"/></td>
+     </tr>
+  </tbody>
+</table>
+</div>
+
 
 ### Tools:
 <p>
