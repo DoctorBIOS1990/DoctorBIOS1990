@@ -11,15 +11,15 @@
 
 ### Languajes 
 <div> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" title="HTML"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" title="CSS"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" title="JavaScript"/>
-    <img src="https://www.interaktif.solutions/wp-content/uploads/2019/09/Delphi_12_512x512@1x.png" width="55" alt="Delphi" title="Delphi"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" title="C++"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" title="Java"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" title="PHP"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" title="Python"/>
-    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5410224-4543401.png" width="55"  alt="SQL" title="SQL Standard"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"width="40" height="40" title="CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
+    <img src="https://www.interaktif.solutions/wp-content/uploads/2019/09/Delphi_12_512x512@1x.png" width="40" height="40" alt="Delphi" title="Delphi"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5410224-4543401.png" width="40" height="40"  alt="SQL" title="SQL Standard"/>
 </div>
 
 ### Technologies:
