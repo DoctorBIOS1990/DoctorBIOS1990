@@ -1,4 +1,3 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Hola👋,+Mi+nombre+es+Jorge+Alberto;Soy+apasionado+🔥+por+la+programación.;Estudiante+Ingeniería+Informática.🧑‍🎓;Procedo+de+Cuba;Hello👋,+My+name+is+Jorge+Alberto;I+am+passionate+🔥+about+programming.;Computer+Engineering+Student.🧑‍🎓;I+come+from+Cuba.)](https://git.io/typing-svg)
