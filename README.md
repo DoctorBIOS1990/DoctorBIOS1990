@@ -25,6 +25,7 @@
 <div> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyn8QqjBWVi7oFXCPk_nBUatVuwVN6hyv1akvbqa7lw&s" alt="spring" width="40" height="40" title="SpringBoot"/>
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/>
+    <img src="https://th.bing.com/th/id/OIP.hYM_tW0emvoOJ_XNP6E_fwHaHa?rs=1&pid=ImgDetMain" alt="DRF" width="40" height="40" title="Django Rest Framework"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
     <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
     <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/VCL_v1.png?w=276)" alt="VCL" width="40" height="40" title="VCL Framework"/>
@@ -42,8 +43,11 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Adobe Ilustrator"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="NodeJS"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+   <img src="https://th.bing.com/th/id/R.718cad629dbab1b10d8bb4858cf9d210?rik=Ebxh4kkDAgIbKg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG51.png&ehk=KhOfyBwzCV%2fsHWqL%2fcJjMmjTJ%2b%2bX%2bGUwJu5EiLvCVho%3d&risl=&pid=ImgRaw&r=0" width="40" height="40" alt="GitHub" title="GitHub"/>
     <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
     <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
+    
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
