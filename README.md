@@ -47,7 +47,8 @@
     <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
     <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
     
-  
+ </div>
+ 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
