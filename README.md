@@ -7,9 +7,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DoctorBIOS1990&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=F1E8F8&bg_color=0d1117" alt="Jorge Alberto Github stats" />
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorBIOS1990&layout=compact&hide_border=true&langs_count=8&title_color=9932CC&text_color=F1E8F8&bg_color=0d1117" />
-  <!--
+  
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=DoctorBIOS1990&theme=radical&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=F1E8F8&bg_color=0d1117" />
-  -->
+  
   
 ### Languajes 
 <div> 
