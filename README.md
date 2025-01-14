@@ -47,7 +47,7 @@
     <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
   </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=b87ced&line=9400D3&point=af60f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
