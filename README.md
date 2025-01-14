@@ -45,8 +45,16 @@
    <img src="https://th.bing.com/th/id/R.718cad629dbab1b10d8bb4858cf9d210?rik=Ebxh4kkDAgIbKg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG51.png&ehk=KhOfyBwzCV%2fsHWqL%2fcJjMmjTJ%2b%2bX%2bGUwJu5EiLvCVho%3d&risl=&pid=ImgRaw&r=0" width="40" height="40" alt="GitHub" title="GitHub"/>
     <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
     <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2023/02/cbuilder-logo-1024-5844450.png?fit=300%2C300&ssl=1" width="40" height="40" alt="C++Builder" title="C++ Builder"/>
-    
- </div>
+  </div>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabelamendesx}/count.svg" /></p> 
+<br>
+</div>
  
 </div>
 
