@@ -49,7 +49,7 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DoctorBIOS1990&bg_color=0d1117&color=b87ced&line=9400D3&point=af60f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-|<a target="_blank" href="doctorbios1990.github.io"><img src="https://github.com/DoctorBIOS1990/doctorbios1990.github.io/blob/main/favicon.ico" width=50 alt="myLogo"></a></br>My Personal <strong>Portfolio</strong> | <div align="center"><br><p align="center"><strong>Visitors Count</strong></p><p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabelamendesx}/count.svg" /></p><br></div> |
+|<a target="_blank" href="https://doctorbios1990.github.io"><img src="https://github.com/DoctorBIOS1990/doctorbios1990.github.io/blob/main/favicon.ico" width=50 alt="myLogo"></a></br>My Personal <strong>Portfolio</strong> | <div align="center"><br><p align="center"><strong>Visitors Count</strong></p><p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabelamendesx}/count.svg" /></p><br></div> |
 | --- | --- |
 
 </div>
