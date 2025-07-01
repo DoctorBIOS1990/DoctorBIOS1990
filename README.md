@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSql"/>       <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL"/>
     <img src="https://codexperts.in/codexperts/public/assets/images/animat/11.png" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Adobe Ilustrator"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="NodeJS"/>
+    <img src="https://freepngimg.com/download/icon/search/6822-node-js.png" alt="nodejs" width="40" height="40" title="NodeJS"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
    <img src="https://th.bing.com/th/id/R.718cad629dbab1b10d8bb4858cf9d210?rik=Ebxh4kkDAgIbKg&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG51.png&ehk=KhOfyBwzCV%2fsHWqL%2fcJjMmjTJ%2b%2bX%2bGUwJu5EiLvCVho%3d&risl=&pid=ImgRaw&r=0" width="40" height="40" alt="GitHub" title="GitHub"/>
     <img src="https://www.dataapps.in/wp-content/themes/dataapps-theme/img/embarcadero/rad-studio-logo-1024.png" width="40" height="40" alt="RAD-Studio" title="RAD Studio"/>
