@@ -28,6 +28,7 @@
     <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
     <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
+    <img src="https://images.icon-icons.com/555/PNG/512/wordpress_icon-icons.com_53600.png" alt="Wordpress" width="40" height="40" title="Wordpress"/>
 </div>
 
 ### Databases:
