@@ -27,8 +27,7 @@
     <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" alt="DRF" width="40" height="40" title="Django Rest Framework"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
     <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
-    <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/VCL_v1.png?w=276)" alt="VCL" width="40" height="40" title="VCL Framework"/>
-    <img src="https://i0.wp.com/delphi.org/wp-content/uploads/2016/09/FireMonkey_v2.png?resize=276%2C276&is-pending-load=1" width="40" height="40" alt="Frame work FireMonkey" title="Fire Monkey"/>
+    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
 </div>
 
 ### Tools:
