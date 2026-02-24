@@ -25,9 +25,9 @@
     <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="spring" width="40" height="40" title="SpringBoot"/>
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/>
     <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" alt="DRF" width="40" height="40" title="Django Rest Framework"/>
+    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
     <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
-    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
 </div>
 
 ### Tools:
@@ -36,7 +36,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40"  alt="IntellijIDEA" title="IntellijIDEA"/>
     <img src="https://mobilemancerblog.blob.core.windows.net/blog/2020/08/vs-code-logo-transp.png" alt="VSCode" width="40" height="40" title="Visual Studio Code"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSql"/>       <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSql"/>       
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" title="MySQL"/> 
+    <img src="https://github.com/user-attachments/assets/97d37e2b-0e04-45f0-a8b4-626932339b9c" alt="Redis" width="40" height="40" title="Redis"/>
     <img src="https://codexperts.in/codexperts/public/assets/images/animat/11.png" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" title="Adobe Ilustrator"/>
     <img src="https://freepngimg.com/download/icon/search/6822-node-js.png" alt="nodejs" width="40" height="40" title="NodeJS"/>
