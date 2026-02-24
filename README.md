@@ -15,7 +15,7 @@
     <img src="https://www.interaktif.solutions/wp-content/uploads/2019/09/Delphi_12_512x512@1x.png" width="40" height="40" alt="Delphi" title="Delphi"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/>
+    <img src="https://github.com/user-attachments/assets/e744bd14-4d7c-4487-b6c4-9a5cb7856035" alt="php" width="40" height="40" title="PHP"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
     <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-server-5410224-4543401.png" width="40" height="40"  alt="SQL" title="SQL Standard"/>
 </div>
