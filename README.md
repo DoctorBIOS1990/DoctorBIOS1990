@@ -26,6 +26,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/>
     <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" alt="DRF" width="40" height="40" title="Django Rest Framework"/>
     <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_static/flask-icon.svg" alt="Flask" width="40" height="40" title="Flask"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="ReactJs"/>
     <img src="https://www.drupal.org/files/project-images/bootstrap5.jpeg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
     <img src="https://images.icon-icons.com/555/PNG/512/wordpress_icon-icons.com_53600.png" alt="Wordpress" width="40" height="40" title="Wordpress"/>
